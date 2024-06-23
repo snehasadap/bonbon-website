@@ -2,7 +2,7 @@
 Followed JavaScript Mastery's [tutorial](https://youtu.be/QRrPE9aj3wI?si=4ju1ys6aX1PXp2oq) on YT for layout and animations, and added my personal touch - desserts! You can view the deployed site on your desktop [here](https://bonbon-desserts.net/).
 ## Getting Started
 ### Installation Requirements
-  * [Node.js](https://nodejs.org/en)
+  * [Node.js](https://nodejs.org/en) (For installing frameworks and libraries with npm)
 
 ## Instructions
   1. You will be using [Vite](https://vitejs.dev/) for setting up your environment. Paste the following command in your terminal:
