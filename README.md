@@ -9,7 +9,7 @@ Followed JavaScript Mastery's [tutorial](https://youtu.be/QRrPE9aj3wI?si=4ju1ys6
      ```sh
      npm init vite bonbon
       ```
-  2. You will be prompted to select a framework. Select ***Vanilla***, then ***Javascript***. This will configure the HTML, CSS, and JavaScript files.
+  2. You will be prompted to select a framework. Select ***Vanilla***, then ***JavaScript***. This will configure the HTML, CSS, and JavaScript files.
      
      <img width="463" alt="Screenshot 2024-06-22 at 8 15 21 PM" src="https://github.com/snehasadap/bonbon-website/assets/104543929/6db504e4-7685-4594-84b2-cf1eed9790a3">
      <img width="410" alt="Screenshot 2024-06-22 at 8 18 55 PM" src="https://github.com/snehasadap/bonbon-website/assets/104543929/324b987d-7adf-42fa-b7e3-c29849ced254">
