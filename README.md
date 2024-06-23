@@ -32,8 +32,8 @@ Followed JavaScript Mastery's tutorial on YT for layout and animations, and adde
     npm install aos
     ```
  7. Run the website in development mode
-   ```sh
-   npm run dev
-   ```
+    ```sh
+     npm run dev
+    ```
    You should see your code running at [http://localhost:5173/](http://localhost:5173/). To stop running Vite, **ctrl+c** in your terminal.
     
