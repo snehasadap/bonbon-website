@@ -26,7 +26,7 @@ Followed JavaScript Mastery's [tutorial](https://youtu.be/QRrPE9aj3wI?si=4ju1ys6
      cd bonbon
      npm install
      ```
- 6. For the animations, you will need to install the [AOS](https://github.com/michalsnik/aos) JavaScript library
+ 6. For the animations, you will need to install the [AOS](https://github.com/michalsnik/aos) library
     ```sh
     npm install aos
     ```
