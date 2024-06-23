@@ -32,7 +32,7 @@ Followed JavaScript Mastery's [tutorial](https://youtu.be/QRrPE9aj3wI?si=4ju1ys6
     ```
  7. Run the website in development mode
     ```sh
-     npm run dev
+    npm run dev
     ```
    You should see your code running at [http://localhost:5173/](http://localhost:5173/). To stop running Vite, **ctrl+c** in your terminal.
 ## Additional Notes
