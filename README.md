@@ -5,4 +5,4 @@ Followed JavaScript Mastery's tutorial on YT for layout and animations, and adde
   * [Node.js](https://nodejs.org/en)
 
 ## Instructions
-  1. You will be using [Vite](https://vitejs.dev/) to set up your environment. 
+  1. You will be using [Vite](https://vitejs.dev/) for setting up your environment. 
