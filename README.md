@@ -20,7 +20,7 @@ Followed JavaScript Mastery's [tutorial](https://youtu.be/QRrPE9aj3wI?si=4ju1ys6
 
      For this project, you can remove all these files, since you will be using mine. 
 
-  4. Download my code as a `.zip` file, unzip it, then paste all the files in your workspace.    
+  4. Download the `bonbon-website` code as a `.zip` file, unzip it, then paste all the files in your workspace.    
   5. Install the dependencies
      ```sh
      cd bonbon
