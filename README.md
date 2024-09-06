@@ -1,5 +1,5 @@
 # bonbon-website
-Followed JavaScript Mastery's [tutorial](https://youtu.be/QRrPE9aj3wI?si=4ju1ys6aX1PXp2oq) on YT for layout and animations, and added my personal touch - desserts! You can view the site deployed on your desktop [here](https://bonbon-desserts.net/). Made with pure HTML/CSS and a little JavaScript for the animations.
+Followed JavaScript Mastery's [tutorial](https://youtu.be/QRrPE9aj3wI?si=4ju1ys6aX1PXp2oq) on YT for layout and animations, and added my personal touch - desserts! 
 ## Getting Started
 ### Installation Requirements
   * [Node.js](https://nodejs.org/en) (To run **npm** command)
